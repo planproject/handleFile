@@ -1,0 +1,7 @@
+[userinfo]
+name = ferre
+pwd = ferre
+
+[learn]
+case = 10
+face = 20
